@@ -22,6 +22,5 @@ namespace ProjetoEmpreiteira.DTO
         public DateTime DataDeInicio { get; set; }
 
         public DateTime PrevisaoDeTermino { get; set; }
-        //porno gay
     }
 }
